@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaAlmacenamiento</string>
+    <string name="ingresar_texto">Ingresar Texto</string>
+    <string name="guardar">Guardar</string>
+</resources>
